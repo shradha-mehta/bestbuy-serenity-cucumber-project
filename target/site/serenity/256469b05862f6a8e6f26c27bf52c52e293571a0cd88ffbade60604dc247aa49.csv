@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different requests on the best buy stores application","check if the best buy stores application can be accessed by users","SUCCESS","2020-06-08T17:17:50.415+01:00[Europe/London]","0.0","0.71"
+"Testing different requests on the best buy stores application","Create a new stores & verify if the stores is added","SUCCESS","2020-06-08T17:17:52.923+01:00[Europe/London]","0.0","0.46"
+"Testing different requests on the best buy stores application","Getting stores information by Id","SUCCESS","2020-06-08T17:17:54.512+01:00[Europe/London]","0.0","0.07"
+"Testing different requests on the best buy stores application","Update a created store & verify if the store is updated","SUCCESS","2020-06-08T17:17:55.601+01:00[Europe/London]","0.0","0.61"
+"Testing different requests on the best buy stores application","Delete a created store & verify the store is deleted","SUCCESS","2020-06-08T17:17:57.434+01:00[Europe/London]","0.0","0.29"

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Service CRUD test","This test will create a new services and verify its generated","SUCCESS","2020-06-08T17:17:24.900+01:00[Europe/London]","0.0","2.38"
+"Service CRUD test","This test will get the services information by ID","SUCCESS","2020-06-08T17:17:27.290+01:00[Europe/London]","0.0","2.61"
+"Service CRUD test","This test will update the services information and verify the updated information","SUCCESS","2020-06-08T17:17:29.899+01:00[Europe/London]","0.0","3.36"
+"Service CRUD test","This test will delete the categories information and verify the categories is deleted ","SUCCESS","2020-06-08T17:17:33.267+01:00[Europe/London]","0.0","3.0"

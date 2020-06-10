@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuy.crudtest.ServiceCRUDTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.771 sec - in com.bestbuy.crudtest.ServiceCRUDTest
